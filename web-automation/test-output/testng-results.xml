@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.fieldez.webautomation" duration-ms="109610" started-at="2019-05-17T14:29:26Z" finished-at="2019-05-17T14:31:16Z">
+    <groups>
+    </groups>
+    <test name="Expense Create Case" duration-ms="109610" started-at="2019-05-17T14:29:26Z" finished-at="2019-05-17T14:31:16Z">
+      <class name="com.fieldez.testcases.TC_CreateCallTest_003">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.fieldez.testcases.TC_CreateCallTest_003@14bf9759]" name="setup" is-config="true" duration-ms="13369" started-at="2019-05-17T14:29:27Z" finished-at="2019-05-17T14:29:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="LoginTest(java.lang.String, java.lang.String)[pri:1, instance:com.fieldez.testcases.TC_CreateCallTest_003@14bf9759]" name="LoginTest" duration-ms="21917" started-at="2019-05-17T14:29:43Z" data-provider="DatabaseLogin" finished-at="2019-05-17T14:30:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ruchitha]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[test123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method status="PASS" signature="CreateCallTest(java.lang.String, java.lang.String)[pri:2, instance:com.fieldez.testcases.TC_CreateCallTest_003@14bf9759]" name="CreateCallTest" duration-ms="33004" started-at="2019-05-17T14:30:05Z" data-provider="CreateCallData" finished-at="2019-05-17T14:30:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Srinivas]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Remarks is there]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateCallTest -->
+        <test-method status="PASS" signature="UploadCallLevelAttachments()[pri:3, instance:com.fieldez.testcases.TC_CreateCallTest_003@14bf9759]" name="UploadCallLevelAttachments" duration-ms="37296" started-at="2019-05-17T14:30:38Z" finished-at="2019-05-17T14:31:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UploadCallLevelAttachments -->
+        <test-method status="PASS" signature="OpenTestResults()[pri:0, instance:com.fieldez.testcases.TC_CreateCallTest_003@14bf9759]" name="OpenTestResults" is-config="true" duration-ms="850" started-at="2019-05-17T14:31:15Z" finished-at="2019-05-17T14:31:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenTestResults -->
+      </class> <!-- com.fieldez.testcases.TC_CreateCallTest_003 -->
+    </test> <!-- Expense Create Case -->
+  </suite> <!-- com.fieldez.webautomation -->
+</testng-results>

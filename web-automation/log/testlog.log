@@ -1,0 +1,964 @@
+2019-01-13 21:02:02,478 - Fieldez -INFO - URL is launched
+2019-01-13 21:02:02,681 - Fieldez -INFO - Entered the username
+2019-01-13 21:02:02,802 - Fieldez -INFO - Entered the password
+2019-01-13 21:02:10,161 - Fieldez -INFO - Logging into application
+2019-01-13 22:16:49,727 - Fieldez -INFO - URL is launched
+2019-01-13 22:16:50,040 - Fieldez -INFO - Entered the username
+2019-01-13 22:16:50,135 - Fieldez -INFO - Entered the password
+2019-01-13 22:16:51,079 - Fieldez -INFO - Logging into application
+2019-01-13 22:18:15,634 - Fieldez -INFO - URL is launched
+2019-01-13 22:18:15,855 - Fieldez -INFO - Entered the username
+2019-01-13 22:18:15,954 - Fieldez -INFO - Entered the password
+2019-01-13 22:18:16,903 - Fieldez -INFO - Logging into application
+2019-01-13 22:18:16,920 - Fieldez -ERROR - Login Test Case Failed
+2019-01-13 22:19:03,512 - Fieldez -INFO - URL is launched
+2019-01-13 22:19:03,734 - Fieldez -INFO - Entered the username
+2019-01-13 22:19:03,827 - Fieldez -INFO - Entered the password
+2019-01-13 22:19:04,713 - Fieldez -INFO - Logging into application
+2019-01-13 22:24:22,945 - Fieldez -INFO - URL is launched
+2019-01-13 22:24:23,158 - Fieldez -INFO - Entered the username
+2019-01-13 22:24:23,253 - Fieldez -INFO - Entered the password
+2019-01-13 22:24:24,634 - Fieldez -INFO - Logging into application
+2019-01-13 22:24:24,652 - Fieldez -ERROR - Login Test Case Failed
+2019-01-13 22:25:12,354 - Fieldez -INFO - URL is launched
+2019-01-13 22:25:12,555 - Fieldez -INFO - Entered the username
+2019-01-13 22:25:12,649 - Fieldez -INFO - Entered the password
+2019-01-13 22:25:13,802 - Fieldez -INFO - Logging into application
+2019-01-13 22:25:13,821 - Fieldez -ERROR - Login Test Case Failed
+2019-01-13 22:46:23,588 - Fieldez -INFO - URL is launched
+2019-01-13 22:46:23,791 - Fieldez -INFO - Entered the username
+2019-01-13 22:46:23,884 - Fieldez -INFO - Entered the password
+2019-01-13 22:46:24,802 - Fieldez -INFO - Logging into application
+2019-01-13 22:48:03,488 - Fieldez -INFO - URL is launched
+2019-01-13 22:48:03,708 - Fieldez -INFO - Entered the username
+2019-01-13 22:48:03,832 - Fieldez -INFO - Entered the password
+2019-01-13 22:48:04,669 - Fieldez -INFO - Logging into application
+2019-01-13 22:55:55,940 - Fieldez -INFO - URL is launched
+2019-01-13 22:55:56,169 - Fieldez -INFO - Entered the username
+2019-01-13 22:55:56,303 - Fieldez -INFO - Entered the password
+2019-01-13 22:55:57,201 - Fieldez -INFO - Logging into application
+2019-01-13 22:59:19,574 - Fieldez -INFO - URL is launched
+2019-01-13 22:59:19,780 - Fieldez -INFO - Entered the username
+2019-01-13 22:59:19,883 - Fieldez -INFO - Entered the password
+2019-01-13 22:59:27,332 - Fieldez -INFO - Logging into application
+2019-01-13 23:34:23,084 - Fieldez -INFO - URL is launched
+2019-01-13 23:34:23,288 - Fieldez -INFO - Entered the username
+2019-01-13 23:34:23,447 - Fieldez -INFO - Entered the password
+2019-01-13 23:34:32,332 - Fieldez -INFO - Logging into application
+2019-01-13 23:35:27,994 - Fieldez -INFO - URL is launched
+2019-01-13 23:35:28,134 - Fieldez -INFO - Entered the username
+2019-01-13 23:35:28,235 - Fieldez -INFO - Entered the password
+2019-01-13 23:35:37,221 - Fieldez -INFO - Logging into application
+2019-01-14 00:07:40,839 - Fieldez -INFO - URL is launched
+2019-01-14 00:07:41,161 - Fieldez -INFO - Entered the username
+2019-01-14 00:07:41,251 - Fieldez -INFO - Entered the password
+2019-01-14 00:07:49,496 - Fieldez -INFO - Logging into application
+2019-01-14 00:23:49,903 - Fieldez -INFO - URL is launched
+2019-01-14 00:23:50,154 - Fieldez -INFO - Entered the username
+2019-01-14 00:23:50,226 - Fieldez -INFO - Entered the password
+2019-01-14 00:23:58,584 - Fieldez -INFO - Logging into application
+2019-01-14 00:28:43,649 - Fieldez -INFO - URL is launched
+2019-01-14 00:28:43,938 - Fieldez -INFO - Entered the username
+2019-01-14 00:28:44,015 - Fieldez -INFO - Entered the password
+2019-01-14 00:28:56,046 - Fieldez -INFO - Logging into application
+2019-01-14 02:21:27,923 - Fieldez -INFO - URL is launched
+2019-01-14 02:21:28,616 - Fieldez -INFO - Entered the username
+2019-01-14 02:21:29,157 - Fieldez -INFO - Entered the password
+2019-01-14 02:21:39,299 - Fieldez -INFO - Logging into application
+2019-01-14 02:49:53,421 - Fieldez -INFO - URL is launched
+2019-01-14 02:49:53,638 - Fieldez -INFO - Entered the username
+2019-01-14 02:49:53,750 - Fieldez -INFO - Entered the password
+2019-01-14 02:50:00,505 - Fieldez -INFO - Logging into application
+2019-01-14 02:51:24,849 - Fieldez -INFO - URL is launched
+2019-01-14 02:51:25,407 - Fieldez -INFO - Entered the username
+2019-01-14 02:51:25,598 - Fieldez -INFO - Entered the password
+2019-01-14 02:51:33,563 - Fieldez -INFO - Logging into application
+2019-01-14 02:55:38,047 - Fieldez -INFO - URL is launched
+2019-01-14 02:55:38,253 - Fieldez -INFO - Entered the username
+2019-01-14 02:55:38,362 - Fieldez -INFO - Entered the password
+2019-01-14 02:55:45,327 - Fieldez -INFO - Logging into application
+2019-01-27 00:04:24,809 - Fieldez -INFO - URL is launched
+2019-01-27 00:04:25,081 - Fieldez -INFO - Entered the username
+2019-01-27 00:04:25,175 - Fieldez -INFO - Entered the password
+2019-01-27 00:04:35,385 - Fieldez -INFO - Logging into application
+2019-01-27 00:55:24,146 - Fieldez -INFO - URL is launched
+2019-01-27 00:55:24,315 - Fieldez -INFO - Entered the username
+2019-01-27 00:55:24,388 - Fieldez -INFO - Entered the password
+2019-01-27 00:55:35,317 - Fieldez -INFO - Logging into application
+2019-01-27 01:56:38,719 - Fieldez -INFO - Welcome page
+2019-01-27 01:56:38,933 - Fieldez -INFO - Welcome page
+2019-01-27 01:56:38,952 - Fieldez -INFO - URL is launched
+2019-01-27 01:56:39,137 - Fieldez -INFO - Entered the username
+2019-01-27 01:56:39,222 - Fieldez -INFO - Entered the password
+2019-01-27 01:56:50,234 - Fieldez -INFO - Logging into application
+2019-01-27 02:00:24,887 - Fieldez -INFO - Welcome page
+2019-01-27 02:00:25,034 - Fieldez -INFO - Welcome page
+2019-01-27 02:00:25,062 - Fieldez -INFO - URL is launched
+2019-01-27 02:00:25,234 - Fieldez -INFO - Entered the username
+2019-01-27 02:00:25,303 - Fieldez -INFO - Entered the password
+2019-01-27 02:00:37,125 - Fieldez -INFO - Logging into application
+2019-01-27 02:01:36,746 - Fieldez -INFO - Welcome page
+2019-01-27 02:01:36,845 - Fieldez -INFO - Welcome page
+2019-01-27 02:01:36,868 - Fieldez -INFO - URL is launched
+2019-01-27 02:01:36,999 - Fieldez -INFO - Entered the username
+2019-01-27 02:01:37,099 - Fieldez -INFO - Entered the password
+2019-01-27 02:01:47,055 - Fieldez -INFO - Logging into application
+2019-01-27 02:03:29,502 - Fieldez -INFO - Welcome page
+2019-01-27 02:03:29,629 - Fieldez -INFO - Welcome page
+2019-01-27 02:41:53,592 - Fieldez -INFO - URL is launched
+2019-01-27 02:41:53,772 - Fieldez -INFO - Entered the username
+2019-01-27 02:41:53,917 - Fieldez -INFO - Entered the password
+2019-01-27 02:41:54,785 - Fieldez -INFO - Logging into application
+2019-01-27 02:46:19,968 - Fieldez -INFO - URL is launched
+2019-01-27 02:46:20,190 - Fieldez -INFO - Entered the username
+2019-01-27 02:46:20,239 - Fieldez -INFO - Entered the password
+2019-01-27 02:46:21,096 - Fieldez -INFO - Logging into application
+2019-01-27 03:03:27,968 - Fieldez -INFO - URL is launched
+2019-01-27 03:03:28,125 - Fieldez -INFO - Entered the username
+2019-01-27 03:03:28,190 - Fieldez -INFO - Entered the password
+2019-01-27 03:03:29,050 - Fieldez -INFO - Logging into application
+2019-01-27 03:12:02,040 - Fieldez -INFO - URL is launched
+2019-01-27 03:12:02,246 - Fieldez -INFO - Entered the username
+2019-01-27 03:12:02,377 - Fieldez -INFO - Entered the password
+2019-01-27 03:12:03,239 - Fieldez -INFO - Logging into application
+2019-01-27 03:13:59,101 - Fieldez -INFO - URL is launched
+2019-01-27 03:13:59,274 - Fieldez -INFO - Entered the username
+2019-01-27 03:13:59,333 - Fieldez -INFO - Entered the password
+2019-01-27 03:14:00,205 - Fieldez -INFO - Logging into application
+2019-01-27 03:15:11,515 - Fieldez -INFO - URL is launched
+2019-01-27 03:15:11,653 - Fieldez -INFO - Entered the username
+2019-01-27 03:15:11,708 - Fieldez -INFO - Entered the password
+2019-01-27 03:15:12,637 - Fieldez -INFO - Logging into application
+2019-01-27 03:19:19,320 - Fieldez -INFO - URL is launched
+2019-01-27 03:19:19,481 - Fieldez -INFO - Entered the username
+2019-01-27 03:19:19,534 - Fieldez -INFO - Entered the password
+2019-01-27 03:19:20,517 - Fieldez -INFO - Logging into application
+2019-01-27 03:19:20,724 - Fieldez -INFO - URL is launched
+2019-01-27 03:19:20,785 - Fieldez -INFO - Entered the username
+2019-01-27 03:19:20,843 - Fieldez -INFO - Entered the password
+2019-01-27 03:19:21,688 - Fieldez -INFO - Logging into application
+2019-01-27 03:20:45,413 - Fieldez -INFO - URL is launched
+2019-01-27 03:20:45,570 - Fieldez -INFO - Entered the username
+2019-01-27 03:20:45,649 - Fieldez -INFO - Entered the password
+2019-01-27 03:20:58,085 - Fieldez -INFO - Logging into application
+2019-01-27 03:20:58,131 - Fieldez -INFO - URL is launched
+2019-01-27 03:24:57,531 - Fieldez -INFO - URL is launched
+2019-01-27 03:24:57,689 - Fieldez -INFO - Entered the username
+2019-01-27 03:24:57,764 - Fieldez -INFO - Entered the password
+2019-01-27 03:24:58,682 - Fieldez -INFO - Logging into application
+2019-01-27 03:24:58,908 - Fieldez -INFO - URL is launched
+2019-01-27 03:24:58,979 - Fieldez -INFO - Entered the username
+2019-01-27 03:24:59,031 - Fieldez -INFO - Entered the password
+2019-01-27 03:24:59,830 - Fieldez -INFO - Logging into application
+2019-01-27 03:28:01,851 - Fieldez -INFO - URL is launched
+2019-01-27 03:28:01,999 - Fieldez -INFO - Entered the username
+2019-01-27 03:28:02,080 - Fieldez -INFO - Entered the password
+2019-01-27 03:28:02,985 - Fieldez -INFO - Logging into application
+2019-01-27 03:28:03,209 - Fieldez -INFO - URL is launched
+2019-01-27 03:28:03,269 - Fieldez -INFO - Entered the username
+2019-01-27 03:28:03,311 - Fieldez -INFO - Entered the password
+2019-01-27 03:28:04,183 - Fieldez -INFO - Logging into application
+2019-01-27 03:45:36,375 - Fieldez -INFO - URL is launched
+2019-01-27 03:45:36,540 - Fieldez -INFO - Entered the username
+2019-01-27 03:45:36,593 - Fieldez -INFO - Entered the password
+2019-01-27 03:45:37,456 - Fieldez -INFO - Logging into application
+2019-01-27 03:45:37,660 - Fieldez -INFO - URL is launched
+2019-01-27 03:45:37,723 - Fieldez -INFO - Entered the username
+2019-01-27 03:45:37,796 - Fieldez -INFO - Entered the password
+2019-01-27 03:45:48,990 - Fieldez -INFO - Logging into application
+2019-01-27 03:47:55,568 - Fieldez -INFO - URL is launched
+2019-01-27 03:47:55,731 - Fieldez -INFO - Entered the username
+2019-01-27 03:47:55,791 - Fieldez -INFO - Entered the password
+2019-01-27 03:47:56,749 - Fieldez -INFO - Logging into application
+2019-01-27 03:47:56,943 - Fieldez -INFO - URL is launched
+2019-01-27 03:47:57,003 - Fieldez -INFO - Entered the username
+2019-01-27 03:47:57,079 - Fieldez -INFO - Entered the password
+2019-01-27 03:48:07,910 - Fieldez -INFO - Logging into application
+2019-01-27 03:51:15,089 - Fieldez -INFO - URL is launched
+2019-01-27 03:51:15,258 - Fieldez -INFO - Entered the username
+2019-01-27 03:51:15,337 - Fieldez -INFO - Entered the password
+2019-01-27 03:51:16,182 - Fieldez -INFO - Logging into application
+2019-01-27 03:51:30,972 - Fieldez -INFO - URL is launched
+2019-01-27 03:51:31,122 - Fieldez -INFO - Entered the username
+2019-01-27 03:51:31,219 - Fieldez -INFO - Entered the password
+2019-01-27 03:51:42,073 - Fieldez -INFO - Logging into application
+2019-01-27 03:53:55,845 - Fieldez -INFO - URL is launched
+2019-01-27 03:53:56,014 - Fieldez -INFO - Entered the username
+2019-01-27 03:53:56,083 - Fieldez -INFO - Entered the password
+2019-01-27 03:53:56,954 - Fieldez -INFO - Logging into application
+2019-01-27 03:54:12,433 - Fieldez -INFO - URL is launched
+2019-01-27 03:54:12,560 - Fieldez -INFO - Entered the username
+2019-01-27 03:54:12,616 - Fieldez -INFO - Entered the password
+2019-01-27 03:54:24,089 - Fieldez -INFO - Logging into application
+2019-01-27 03:56:21,937 - Fieldez -INFO - URL is launched
+2019-01-27 03:56:22,095 - Fieldez -INFO - Entered the username
+2019-01-27 03:56:22,159 - Fieldez -INFO - Entered the password
+2019-01-27 03:56:23,044 - Fieldez -INFO - Logging into application
+2019-01-27 03:56:39,643 - Fieldez -INFO - URL is launched
+2019-01-27 03:56:39,762 - Fieldez -INFO - Entered the username
+2019-01-27 03:56:39,857 - Fieldez -INFO - Entered the password
+2019-01-27 03:56:40,720 - Fieldez -INFO - Logging into application
+2019-01-27 03:57:22,181 - Fieldez -INFO - URL is launched
+2019-01-27 03:57:22,343 - Fieldez -INFO - Entered the username
+2019-01-27 03:57:22,405 - Fieldez -INFO - Entered the password
+2019-01-27 03:57:23,267 - Fieldez -INFO - Logging into application
+2019-01-27 03:57:37,903 - Fieldez -INFO - URL is launched
+2019-01-27 03:57:38,042 - Fieldez -INFO - Entered the username
+2019-01-27 03:57:38,130 - Fieldez -INFO - Entered the password
+2019-01-27 03:57:48,942 - Fieldez -INFO - Logging into application
+2019-01-27 03:58:20,494 - Fieldez -INFO - URL is launched
+2019-01-27 03:58:20,665 - Fieldez -INFO - Entered the username
+2019-01-27 03:58:20,758 - Fieldez -INFO - Entered the password
+2019-01-27 03:58:21,673 - Fieldez -INFO - Logging into application
+2019-01-27 20:17:35,889 - Fieldez -INFO - URL is launched
+2019-01-27 20:17:36,274 - Fieldez -INFO - Entered the username
+2019-01-27 20:17:36,314 - Fieldez -INFO - Entered the password
+2019-01-27 20:17:37,655 - Fieldez -INFO - Logging into application
+2019-01-27 20:17:54,228 - Fieldez -INFO - URL is launched
+2019-01-27 20:17:54,376 - Fieldez -INFO - Entered the username
+2019-01-27 20:17:54,457 - Fieldez -INFO - Entered the password
+2019-01-27 20:18:09,157 - Fieldez -INFO - Logging into application
+2019-01-27 20:20:57,835 - Fieldez -INFO - URL is launched
+2019-01-27 20:20:57,994 - Fieldez -INFO - Entered the username
+2019-01-27 20:20:58,059 - Fieldez -INFO - Entered the password
+2019-01-27 20:20:59,205 - Fieldez -INFO - Logging into application
+2019-01-27 20:21:17,465 - Fieldez -INFO - URL is launched
+2019-01-27 20:21:17,595 - Fieldez -INFO - Entered the username
+2019-01-27 20:21:17,665 - Fieldez -INFO - Entered the password
+2019-01-27 20:21:33,214 - Fieldez -INFO - Logging into application
+2019-01-27 20:21:50,902 - Fieldez -INFO - URL is launched
+2019-01-27 20:21:51,026 - Fieldez -INFO - Entered the username
+2019-01-27 20:21:51,134 - Fieldez -INFO - Entered the password
+2019-01-27 20:22:03,020 - Fieldez -INFO - Logging into application
+2019-01-27 20:25:28,858 - Fieldez -INFO - URL is launched
+2019-01-27 20:25:29,012 - Fieldez -INFO - Entered the username
+2019-01-27 20:25:29,084 - Fieldez -INFO - Entered the password
+2019-01-27 20:25:30,115 - Fieldez -INFO - Logging into application
+2019-01-27 20:25:46,647 - Fieldez -INFO - URL is launched
+2019-01-27 20:25:46,774 - Fieldez -INFO - Entered the username
+2019-01-27 20:25:46,859 - Fieldez -INFO - Entered the password
+2019-01-27 20:26:01,767 - Fieldez -INFO - Logging into application
+2019-01-27 20:26:19,161 - Fieldez -INFO - URL is launched
+2019-01-27 20:26:19,287 - Fieldez -INFO - Entered the username
+2019-01-27 20:26:19,390 - Fieldez -INFO - Entered the password
+2019-01-27 20:26:29,492 - Fieldez -INFO - Logging into application
+2019-01-27 20:29:53,072 - Fieldez -INFO - URL is launched
+2019-01-27 20:29:53,230 - Fieldez -INFO - Entered the username
+2019-01-27 20:29:53,328 - Fieldez -INFO - Entered the password
+2019-01-27 20:29:58,901 - Fieldez -INFO - Logging into application
+2019-01-27 20:34:42,385 - Fieldez -INFO - URL is launched
+2019-01-27 20:34:42,549 - Fieldez -INFO - Entered the username
+2019-01-27 20:34:42,608 - Fieldez -INFO - Entered the password
+2019-01-27 20:34:43,665 - Fieldez -INFO - Logging into application
+2019-01-27 20:34:59,660 - Fieldez -INFO - URL is launched
+2019-01-27 20:34:59,774 - Fieldez -INFO - Entered the username
+2019-01-27 20:34:59,870 - Fieldez -INFO - Entered the password
+2019-01-27 20:35:15,510 - Fieldez -INFO - Logging into application
+2019-01-27 20:41:51,743 - Fieldez -INFO - URL is launched
+2019-01-27 20:41:51,891 - Fieldez -INFO - Entered the username
+2019-01-27 20:41:51,961 - Fieldez -INFO - Entered the password
+2019-01-27 20:41:52,995 - Fieldez -INFO - Logging into application
+2019-01-27 20:42:08,845 - Fieldez -INFO - URL is launched
+2019-01-27 20:42:08,966 - Fieldez -INFO - Entered the username
+2019-01-27 20:42:09,040 - Fieldez -INFO - Entered the password
+2019-01-27 20:42:23,691 - Fieldez -INFO - Logging into application
+2019-01-27 20:48:58,294 - Fieldez -INFO - URL is launched
+2019-01-27 20:48:58,478 - Fieldez -INFO - Entered the username
+2019-01-27 20:48:58,548 - Fieldez -INFO - Entered the password
+2019-01-27 20:49:03,579 - Fieldez -INFO - Logging into application
+2019-01-27 20:49:25,201 - Fieldez -INFO - URL is launched
+2019-01-27 20:49:25,351 - Fieldez -INFO - Entered the username
+2019-01-27 20:49:25,454 - Fieldez -INFO - Entered the password
+2019-01-27 20:49:44,068 - Fieldez -INFO - Logging into application
+2019-01-27 20:59:06,416 - Fieldez -INFO - URL is launched
+2019-01-27 20:59:06,612 - Fieldez -INFO - Entered the username
+2019-01-27 20:59:06,671 - Fieldez -INFO - Entered the password
+2019-01-27 20:59:08,976 - Fieldez -INFO - Logging into application
+2019-01-27 20:59:33,460 - Fieldez -INFO - URL is launched
+2019-01-27 20:59:33,594 - Fieldez -INFO - Entered the username
+2019-01-27 20:59:33,696 - Fieldez -INFO - Entered the password
+2019-01-27 20:59:53,590 - Fieldez -INFO - Logging into application
+2019-01-27 21:00:58,944 - Fieldez -INFO - URL is launched
+2019-01-27 21:00:59,115 - Fieldez -INFO - Entered the username
+2019-01-27 21:00:59,173 - Fieldez -INFO - Entered the password
+2019-01-27 21:01:10,702 - Fieldez -INFO - Logging into application
+2019-01-27 21:01:37,815 - Fieldez -INFO - URL is launched
+2019-01-27 21:01:37,989 - Fieldez -INFO - Entered the username
+2019-01-27 21:01:38,095 - Fieldez -INFO - Entered the password
+2019-01-27 21:01:45,503 - Fieldez -INFO - Logging into application
+2019-01-27 21:05:12,172 - Fieldez -INFO - URL is launched
+2019-01-27 21:05:12,417 - Fieldez -INFO - Entered the username
+2019-01-27 21:05:12,511 - Fieldez -INFO - Entered the password
+2019-01-27 21:05:17,324 - Fieldez -INFO - Logging into application
+2019-01-27 21:05:41,361 - Fieldez -INFO - URL is launched
+2019-01-27 21:05:41,572 - Fieldez -INFO - Entered the username
+2019-01-27 21:05:41,719 - Fieldez -INFO - Entered the password
+2019-01-27 21:05:44,151 - Fieldez -INFO - Logging into application
+2019-01-27 21:06:12,783 - Fieldez -INFO - URL is launched
+2019-01-27 21:06:12,975 - Fieldez -INFO - Entered the username
+2019-01-27 21:06:13,090 - Fieldez -INFO - Entered the password
+2019-01-27 21:06:38,385 - Fieldez -INFO - Logging into application
+2019-01-27 21:07:47,204 - Fieldez -INFO - URL is launched
+2019-01-27 21:07:47,380 - Fieldez -INFO - Entered the username
+2019-01-27 21:07:47,458 - Fieldez -INFO - Entered the password
+2019-01-27 21:07:48,558 - Fieldez -INFO - Logging into application
+2019-01-27 21:09:22,007 - Fieldez -INFO - URL is launched
+2019-01-27 21:09:22,168 - Fieldez -INFO - Entered the username
+2019-01-27 21:09:22,228 - Fieldez -INFO - Entered the password
+2019-01-27 21:09:23,302 - Fieldez -INFO - Logging into application
+2019-01-27 21:17:24,489 - Fieldez -INFO - URL is launched
+2019-01-27 21:17:24,705 - Fieldez -INFO - Entered the username
+2019-01-27 21:17:24,798 - Fieldez -INFO - Entered the password
+2019-01-27 21:17:25,861 - Fieldez -INFO - Logging into application
+2019-01-27 21:18:14,321 - Fieldez -INFO - URL is launched
+2019-01-27 21:18:14,467 - Fieldez -INFO - Entered the username
+2019-01-27 21:18:14,567 - Fieldez -INFO - Entered the password
+2019-01-27 21:18:38,983 - Fieldez -INFO - Logging into application
+2019-01-27 21:19:12,912 - Fieldez -INFO - URL is launched
+2019-01-27 21:19:13,046 - Fieldez -INFO - Entered the username
+2019-01-27 21:19:13,131 - Fieldez -INFO - Entered the password
+2019-01-27 21:19:29,033 - Fieldez -INFO - Logging into application
+2019-01-27 21:21:31,962 - Fieldez -INFO - URL is launched
+2019-01-27 21:21:32,149 - Fieldez -INFO - Entered the username
+2019-01-27 21:21:32,238 - Fieldez -INFO - Entered the password
+2019-01-27 21:21:33,375 - Fieldez -INFO - Logging into application
+2019-01-27 21:21:53,887 - Fieldez -INFO - URL is launched
+2019-01-27 21:21:54,027 - Fieldez -INFO - Entered the username
+2019-01-27 21:21:54,112 - Fieldez -INFO - Entered the password
+2019-01-27 21:22:16,472 - Fieldez -INFO - Logging into application
+2019-01-27 21:22:41,696 - Fieldez -INFO - URL is launched
+2019-01-27 21:22:41,830 - Fieldez -INFO - Entered the username
+2019-01-27 21:22:41,890 - Fieldez -INFO - Entered the password
+2019-01-27 21:23:00,108 - Fieldez -INFO - Logging into application
+2019-01-28 00:11:28,920 - Fieldez -INFO - URL is launched
+2019-01-28 00:11:29,104 - Fieldez -INFO - Entered the username
+2019-01-28 00:11:29,162 - Fieldez -INFO - Entered the password
+2019-01-28 00:11:30,179 - Fieldez -INFO - Logging into application
+2019-01-28 00:11:50,385 - Fieldez -INFO - URL is launched
+2019-01-28 00:11:50,524 - Fieldez -INFO - Entered the username
+2019-01-28 00:11:50,595 - Fieldez -INFO - Entered the password
+2019-01-28 00:12:01,960 - Fieldez -INFO - Logging into application
+2019-01-28 00:12:22,632 - Fieldez -INFO - URL is launched
+2019-01-28 00:12:22,773 - Fieldez -INFO - Entered the username
+2019-01-28 00:12:22,872 - Fieldez -INFO - Entered the password
+2019-01-28 00:12:29,269 - Fieldez -INFO - Logging into application
+2019-01-28 00:56:14,319 - Fieldez -INFO - URL is launched
+2019-01-28 00:56:14,521 - Fieldez -INFO - Entered the username
+2019-01-28 00:56:14,607 - Fieldez -INFO - Entered the password
+2019-01-28 00:56:15,508 - Fieldez -INFO - Logging into application
+2019-01-28 00:56:35,686 - Fieldez -INFO - URL is launched
+2019-01-28 00:56:35,836 - Fieldez -INFO - Entered the username
+2019-01-28 00:56:35,912 - Fieldez -INFO - Entered the password
+2019-01-28 00:56:39,668 - Fieldez -INFO - Logging into application
+2019-01-28 01:01:29,643 - Fieldez -INFO - URL is launched
+2019-01-28 01:01:29,812 - Fieldez -INFO - Entered the username
+2019-01-28 01:01:29,859 - Fieldez -INFO - Entered the password
+2019-01-28 01:01:30,815 - Fieldez -INFO - Logging into application
+2019-01-28 01:01:51,779 - Fieldez -INFO - URL is launched
+2019-01-28 01:01:51,917 - Fieldez -INFO - Entered the username
+2019-01-28 01:01:52,001 - Fieldez -INFO - Entered the password
+2019-01-28 01:01:58,196 - Fieldez -INFO - Logging into application
+2019-01-28 01:02:17,342 - Fieldez -INFO - URL is launched
+2019-01-28 01:02:17,481 - Fieldez -INFO - Entered the username
+2019-01-28 01:02:17,579 - Fieldez -INFO - Entered the password
+2019-01-28 01:02:23,480 - Fieldez -INFO - Logging into application
+2019-01-28 01:04:13,556 - Fieldez -INFO - URL is launched
+2019-01-28 01:04:13,735 - Fieldez -INFO - Entered the username
+2019-01-28 01:04:13,794 - Fieldez -INFO - Entered the password
+2019-01-28 01:04:14,686 - Fieldez -INFO - Logging into application
+2019-01-28 01:04:33,501 - Fieldez -INFO - URL is launched
+2019-01-28 01:04:33,636 - Fieldez -INFO - Entered the username
+2019-01-28 01:04:33,755 - Fieldez -INFO - Entered the password
+2019-01-28 01:04:40,569 - Fieldez -INFO - Logging into application
+2019-01-28 01:05:02,175 - Fieldez -INFO - URL is launched
+2019-01-28 01:05:02,353 - Fieldez -INFO - Entered the username
+2019-01-28 01:05:02,426 - Fieldez -INFO - Entered the password
+2019-01-28 01:05:13,562 - Fieldez -INFO - Logging into application
+2019-01-28 01:51:04,514 - Fieldez -INFO - URL is launched
+2019-01-28 01:51:04,694 - Fieldez -INFO - Entered the username
+2019-01-28 01:51:04,802 - Fieldez -INFO - Entered the password
+2019-01-28 01:51:15,526 - Fieldez -INFO - Logging into application
+2019-01-28 01:51:35,169 - Fieldez -INFO - URL is launched
+2019-01-28 01:51:35,326 - Fieldez -INFO - Entered the username
+2019-01-28 01:51:35,464 - Fieldez -INFO - Entered the password
+2019-01-28 01:51:45,064 - Fieldez -INFO - Logging into application
+2019-01-28 01:52:05,182 - Fieldez -INFO - URL is launched
+2019-01-28 01:52:05,327 - Fieldez -INFO - Entered the username
+2019-01-28 01:52:05,405 - Fieldez -INFO - Entered the password
+2019-01-28 01:52:12,361 - Fieldez -INFO - Logging into application
+2019-01-28 01:54:03,101 - Fieldez -INFO - URL is launched
+2019-01-28 01:54:03,291 - Fieldez -INFO - Entered the username
+2019-01-28 01:54:03,387 - Fieldez -INFO - Entered the password
+2019-01-28 01:54:13,509 - Fieldez -INFO - Logging into application
+2019-01-28 01:54:43,499 - Fieldez -INFO - URL is launched
+2019-01-28 01:54:43,647 - Fieldez -INFO - Entered the username
+2019-01-28 01:54:43,752 - Fieldez -INFO - Entered the password
+2019-01-28 01:54:52,121 - Fieldez -INFO - Logging into application
+2019-01-28 01:55:23,851 - Fieldez -INFO - URL is launched
+2019-01-28 01:55:23,997 - Fieldez -INFO - Entered the username
+2019-01-28 01:55:24,078 - Fieldez -INFO - Entered the password
+2019-01-28 01:55:31,856 - Fieldez -INFO - Logging into application
+2019-01-28 01:58:23,484 - Fieldez -INFO - URL is launched
+2019-01-28 01:58:23,698 - Fieldez -INFO - Entered the username
+2019-01-28 01:58:23,798 - Fieldez -INFO - Entered the password
+2019-01-28 01:58:34,550 - Fieldez -INFO - Logging into application
+2019-01-28 01:59:04,445 - Fieldez -INFO - URL is launched
+2019-01-28 01:59:04,576 - Fieldez -INFO - Entered the username
+2019-01-28 01:59:04,676 - Fieldez -INFO - Entered the password
+2019-01-28 01:59:13,044 - Fieldez -INFO - Logging into application
+2019-01-28 01:59:42,445 - Fieldez -INFO - URL is launched
+2019-01-28 01:59:42,593 - Fieldez -INFO - Entered the username
+2019-01-28 01:59:42,697 - Fieldez -INFO - Entered the password
+2019-01-28 01:59:48,441 - Fieldez -INFO - Logging into application
+2019-01-28 11:17:54,013 - Fieldez -INFO - URL is launched
+2019-01-28 11:17:54,279 - Fieldez -INFO - Entered the username
+2019-01-28 11:17:54,367 - Fieldez -INFO - Entered the password
+2019-01-28 11:18:00,921 - Fieldez -INFO - Logging into application
+2019-01-28 11:18:25,503 - Fieldez -INFO - URL is launched
+2019-01-28 11:18:25,668 - Fieldez -INFO - Entered the username
+2019-01-28 11:18:25,790 - Fieldez -INFO - Entered the password
+2019-01-28 11:18:30,449 - Fieldez -INFO - Logging into application
+2019-01-28 11:18:54,679 - Fieldez -INFO - URL is launched
+2019-01-28 11:18:54,911 - Fieldez -INFO - Entered the username
+2019-01-28 11:18:55,009 - Fieldez -INFO - Entered the password
+2019-01-28 11:18:59,748 - Fieldez -INFO - Logging into application
+2019-01-28 11:19:24,087 - Fieldez -INFO - URL is launched
+2019-01-28 11:19:24,260 - Fieldez -INFO - Entered the username
+2019-01-28 11:19:24,342 - Fieldez -INFO - Entered the password
+2019-01-28 11:19:28,961 - Fieldez -INFO - Logging into application
+2019-01-28 11:36:09,758 - Fieldez -INFO - URL is launched
+2019-01-28 11:36:09,949 - Fieldez -INFO - Entered the username
+2019-01-28 11:36:10,042 - Fieldez -INFO - Entered the password
+2019-01-28 11:36:15,769 - Fieldez -INFO - Logging into application
+2019-01-28 11:37:48,286 - Fieldez -INFO - URL is launched
+2019-01-28 11:37:48,491 - Fieldez -INFO - Entered the username
+2019-01-28 11:37:48,584 - Fieldez -INFO - Entered the password
+2019-01-28 11:37:54,252 - Fieldez -INFO - Logging into application
+2019-01-28 11:38:20,015 - Fieldez -INFO - URL is launched
+2019-01-28 11:38:20,172 - Fieldez -INFO - Entered the username
+2019-01-28 11:38:20,236 - Fieldez -INFO - Entered the password
+2019-01-28 11:38:24,534 - Fieldez -INFO - Logging into application
+2019-01-28 11:38:50,647 - Fieldez -INFO - URL is launched
+2019-01-28 11:38:50,783 - Fieldez -INFO - Entered the username
+2019-01-28 11:38:50,838 - Fieldez -INFO - Entered the password
+2019-01-28 11:38:55,269 - Fieldez -INFO - Logging into application
+2019-01-28 11:39:23,106 - Fieldez -INFO - URL is launched
+2019-01-28 11:39:23,276 - Fieldez -INFO - Entered the username
+2019-01-28 11:39:23,359 - Fieldez -INFO - Entered the password
+2019-01-28 11:39:27,888 - Fieldez -INFO - Logging into application
+2019-01-28 11:42:50,782 - Fieldez -INFO - URL is launched
+2019-01-28 11:42:50,956 - Fieldez -INFO - Entered the username
+2019-01-28 11:42:51,086 - Fieldez -INFO - Entered the password
+2019-01-28 11:42:57,659 - Fieldez -INFO - Logging into application
+2019-01-28 11:43:22,310 - Fieldez -INFO - URL is launched
+2019-01-28 11:43:22,472 - Fieldez -INFO - Entered the username
+2019-01-28 11:43:22,598 - Fieldez -INFO - Entered the password
+2019-01-28 11:43:27,458 - Fieldez -INFO - Logging into application
+2019-01-28 11:43:52,478 - Fieldez -INFO - URL is launched
+2019-01-28 11:43:52,624 - Fieldez -INFO - Entered the username
+2019-01-28 11:43:52,728 - Fieldez -INFO - Entered the password
+2019-01-28 11:43:57,330 - Fieldez -INFO - Logging into application
+2019-01-28 11:44:22,194 - Fieldez -INFO - URL is launched
+2019-01-28 11:44:22,361 - Fieldez -INFO - Entered the username
+2019-01-28 11:44:22,495 - Fieldez -INFO - Entered the password
+2019-01-28 11:44:27,317 - Fieldez -INFO - Logging into application
+2019-01-28 15:46:19,704 - Fieldez -INFO - URL is launched
+2019-01-28 15:46:20,219 - Fieldez -INFO - Entered the username
+2019-01-28 15:46:20,382 - Fieldez -INFO - Entered the password
+2019-01-28 15:46:26,099 - Fieldez -INFO - Logging into application
+2019-01-28 15:46:50,747 - Fieldez -INFO - URL is launched
+2019-01-28 15:46:50,875 - Fieldez -INFO - Entered the username
+2019-01-28 15:46:50,981 - Fieldez -INFO - Entered the password
+2019-01-28 15:46:55,549 - Fieldez -INFO - Logging into application
+2019-01-30 01:19:47,167 - Fieldez -INFO - Customer page
+2019-01-30 01:37:38,256 - Fieldez -INFO - Customer page
+2019-01-30 12:42:41,985 - Fieldez -INFO - Customer page
+2019-02-28 16:12:06,037 - Fieldez -INFO - Customer page
+2019-02-28 16:12:29,383 - Fieldez -INFO - Customer page
+2019-02-28 16:13:09,011 - Fieldez -INFO - Customer page
+2019-02-28 17:28:42,023 - Fieldez -INFO - Customer page
+2019-02-28 17:29:13,835 - Fieldez -INFO - Customer page
+2019-02-28 17:29:57,447 - Fieldez -INFO - Customer page
+2019-02-28 17:35:54,003 - Fieldez -INFO - Customer page
+2019-02-28 17:35:54,226 - Fieldez -INFO - Clicked on Customer Header
+2019-02-28 17:35:54,322 - Fieldez -INFO - Customer page
+2019-02-28 17:35:54,469 - Fieldez -INFO - Clicked on Customer Header
+2019-02-28 17:35:54,529 - Fieldez -INFO - Customer page
+2019-02-28 17:35:54,660 - Fieldez -INFO - Clicked on Customer Header
+2019-02-28 17:41:20,675 - Fieldez -INFO - Clicked on Customer Header
+2019-02-28 17:41:34,476 - Fieldez -INFO - Clicked on Customer Header
+2019-02-28 17:41:34,692 - Fieldez -INFO - Clicked on Customer Header
+2019-02-28 18:22:03,014 - Fieldez -INFO - Clicked on Customer Header
+2019-02-28 18:22:07,579 - Fieldez -INFO - Clicked on Customer Header
+2019-02-28 18:22:07,694 - Fieldez -INFO - Clicked on Customer Header
+2019-02-28 18:26:05,317 - Fieldez -INFO - Clicked on Customer Header
+2019-02-28 18:26:07,546 - Fieldez -INFO - Clicked on Customer Header
+2019-02-28 18:26:07,656 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 13:01:20,495 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 13:01:22,000 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 13:01:22,295 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 13:06:02,812 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 13:06:04,284 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 13:06:04,766 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 13:11:11,369 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 13:11:11,615 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 13:11:13,115 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 13:15:28,846 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 13:15:29,027 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 13:15:29,110 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 13:18:48,421 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 13:18:48,581 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 13:18:48,673 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 13:25:14,083 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 13:25:19,303 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 13:25:24,450 - Fieldez -INFO - Click Add Customer Button
+2019-03-04 13:25:41,244 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 13:25:46,471 - Fieldez -INFO - Click Add Customer Button
+2019-03-04 13:59:30,788 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 13:59:30,957 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 13:59:31,980 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 14:06:08,554 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 14:06:10,371 - Fieldez -INFO - Click Add Customer Button
+2019-03-04 14:06:12,238 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 14:06:13,475 - Fieldez -INFO - Click Add Customer Button
+2019-03-04 14:06:14,360 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 14:06:14,606 - Fieldez -INFO - Click Add Customer Button
+2019-03-04 14:09:50,355 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 14:09:52,466 - Fieldez -INFO - Click Add Customer Button
+2019-03-04 14:09:54,145 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 14:09:55,391 - Fieldez -INFO - Click Add Customer Button
+2019-03-04 14:09:56,342 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 14:09:56,608 - Fieldez -INFO - Click Add Customer Button
+2019-03-04 14:14:45,590 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 14:14:47,270 - Fieldez -INFO - Click Add Customer Button
+2019-03-04 14:14:48,586 - Fieldez -INFO - Entered the customer first name
+2019-03-04 14:14:48,718 - Fieldez -INFO - Entered the customer last name
+2019-03-04 14:14:48,830 - Fieldez -INFO - Saved the customer successfully
+2019-03-04 14:14:49,074 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 14:14:59,369 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 14:15:00,598 - Fieldez -INFO - Click Add Customer Button
+2019-03-04 14:15:01,111 - Fieldez -INFO - Entered the customer first name
+2019-03-04 14:15:01,236 - Fieldez -INFO - Entered the customer last name
+2019-03-04 14:15:01,370 - Fieldez -INFO - Saved the customer successfully
+2019-03-04 14:16:57,936 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 14:16:59,710 - Fieldez -INFO - Click Add Customer Button
+2019-03-04 14:17:00,777 - Fieldez -INFO - Entered the customer first name
+2019-03-04 14:17:00,903 - Fieldez -INFO - Entered the customer last name
+2019-03-04 14:17:01,035 - Fieldez -INFO - Saved the customer successfully
+2019-03-04 14:17:01,281 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 14:17:11,655 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 14:17:12,946 - Fieldez -INFO - Click Add Customer Button
+2019-03-04 14:17:13,497 - Fieldez -INFO - Entered the customer first name
+2019-03-04 14:17:13,654 - Fieldez -INFO - Entered the customer last name
+2019-03-04 14:17:13,784 - Fieldez -INFO - Saved the customer successfully
+2019-03-04 14:19:13,861 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 14:19:16,017 - Fieldez -INFO - Click Add Customer Button
+2019-03-04 14:19:17,356 - Fieldez -INFO - Entered the customer first name
+2019-03-04 14:19:17,552 - Fieldez -INFO - Entered the customer last name
+2019-03-04 14:19:17,671 - Fieldez -INFO - Saved the customer successfully
+2019-03-04 14:19:18,058 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 14:24:05,649 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 14:24:08,028 - Fieldez -INFO - Click Add Customer Button
+2019-03-04 14:24:09,370 - Fieldez -INFO - Entered the customer first name
+2019-03-04 14:24:09,514 - Fieldez -INFO - Entered the customer last name
+2019-03-04 14:24:09,646 - Fieldez -INFO - Saved the customer successfully
+2019-03-04 14:24:09,931 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 14:26:37,722 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 14:26:39,450 - Fieldez -INFO - Click Add Customer Button
+2019-03-04 14:26:40,770 - Fieldez -INFO - Entered the customer first name
+2019-03-04 14:26:40,910 - Fieldez -INFO - Entered the customer last name
+2019-03-04 14:26:41,043 - Fieldez -INFO - Saved the customer successfully
+2019-03-04 14:26:41,294 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 14:26:41,507 - Fieldez -INFO - Click Add Customer Button
+2019-03-04 14:26:42,109 - Fieldez -INFO - Entered the customer first name
+2019-03-04 14:26:42,242 - Fieldez -INFO - Entered the customer last name
+2019-03-04 14:26:42,386 - Fieldez -INFO - Saved the customer successfully
+2019-03-04 14:28:37,266 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 14:28:40,148 - Fieldez -INFO - Click Add Customer Button
+2019-03-04 14:28:41,673 - Fieldez -INFO - Entered the customer first name
+2019-03-04 14:28:41,817 - Fieldez -INFO - Entered the customer last name
+2019-03-04 14:28:41,956 - Fieldez -INFO - Saved the customer successfully
+2019-03-04 14:28:42,275 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 14:28:42,533 - Fieldez -INFO - Click Add Customer Button
+2019-03-04 14:28:43,043 - Fieldez -INFO - Entered the customer first name
+2019-03-04 14:28:43,203 - Fieldez -INFO - Entered the customer last name
+2019-03-04 14:28:43,346 - Fieldez -INFO - Saved the customer successfully
+2019-03-04 14:40:00,190 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 14:40:02,342 - Fieldez -INFO - Click Add Customer Button
+2019-03-04 14:40:03,766 - Fieldez -INFO - Entered the customer first name
+2019-03-04 14:40:03,904 - Fieldez -INFO - Entered the customer last name
+2019-03-04 14:40:04,029 - Fieldez -INFO - Saved the customer successfully
+2019-03-04 14:40:04,380 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 14:40:05,957 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 14:40:06,169 - Fieldez -INFO - Click Add Customer Button
+2019-03-04 14:40:06,951 - Fieldez -INFO - Entered the customer first name
+2019-03-04 14:40:07,105 - Fieldez -INFO - Entered the customer last name
+2019-03-04 14:40:07,276 - Fieldez -INFO - Saved the customer successfully
+2019-03-04 14:40:07,531 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 14:42:33,975 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 14:42:35,655 - Fieldez -INFO - Click Add Customer Button
+2019-03-04 14:42:37,059 - Fieldez -INFO - Entered the customer first name
+2019-03-04 14:42:37,190 - Fieldez -INFO - Entered the customer last name
+2019-03-04 14:42:37,323 - Fieldez -INFO - Saved the customer successfully
+2019-03-04 14:42:37,610 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 14:42:37,845 - Fieldez -INFO - Click Add Customer Button
+2019-03-04 14:42:38,382 - Fieldez -INFO - Entered the customer first name
+2019-03-04 14:42:38,532 - Fieldez -INFO - Entered the customer last name
+2019-03-04 14:42:38,656 - Fieldez -INFO - Saved the customer successfully
+2019-03-04 14:42:38,925 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 14:42:59,271 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 14:42:59,497 - Fieldez -INFO - Click Add Customer Button
+2019-03-04 14:42:59,989 - Fieldez -INFO - Entered the customer first name
+2019-03-04 14:43:00,245 - Fieldez -INFO - Entered the customer last name
+2019-03-04 14:43:00,437 - Fieldez -INFO - Saved the customer successfully
+2019-03-04 14:56:31,233 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 14:56:32,947 - Fieldez -INFO - Click Add Customer Button
+2019-03-04 14:56:34,292 - Fieldez -INFO - Entered the customer first name
+2019-03-04 14:56:34,424 - Fieldez -INFO - Entered the customer last name
+2019-03-04 14:56:44,564 - Fieldez -INFO - Saved the customer successfully
+2019-03-04 14:56:44,824 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 14:56:45,039 - Fieldez -INFO - Click Add Customer Button
+2019-03-04 14:56:45,535 - Fieldez -INFO - Entered the customer first name
+2019-03-04 14:56:45,666 - Fieldez -INFO - Entered the customer last name
+2019-03-04 14:56:55,793 - Fieldez -INFO - Saved the customer successfully
+2019-03-04 14:56:56,056 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 14:56:56,278 - Fieldez -INFO - Click Add Customer Button
+2019-03-04 14:56:56,744 - Fieldez -INFO - Entered the customer first name
+2019-03-04 14:56:56,875 - Fieldez -INFO - Entered the customer last name
+2019-03-04 14:57:07,018 - Fieldez -INFO - Saved the customer successfully
+2019-03-04 14:57:07,251 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 14:57:07,433 - Fieldez -INFO - Click Add Customer Button
+2019-03-04 14:57:07,920 - Fieldez -INFO - Entered the customer first name
+2019-03-04 14:57:08,038 - Fieldez -INFO - Entered the customer last name
+2019-03-04 14:57:18,146 - Fieldez -INFO - Saved the customer successfully
+2019-03-21 15:44:13,209 - Fieldez -INFO - Clicked on Customer Header
+2019-03-21 15:44:14,642 - Fieldez -INFO - Click Add Customer Button
+2019-03-21 15:44:15,744 - Fieldez -INFO - Entered the customer first name
+2019-03-21 15:44:15,844 - Fieldez -INFO - Entered the customer last name
+2019-03-21 15:44:25,952 - Fieldez -INFO - Saved the customer successfully
+2019-03-21 15:44:31,204 - Fieldez -INFO - Clicked on Customer Header
+2019-03-21 15:44:36,367 - Fieldez -INFO - Click Add Customer Button
+2019-03-21 15:44:36,792 - Fieldez -INFO - Entered the customer first name
+2019-03-21 15:44:36,891 - Fieldez -INFO - Entered the customer last name
+2019-03-21 15:44:51,979 - Fieldez -INFO - Saved the customer successfully
+2019-03-21 15:44:57,200 - Fieldez -INFO - Clicked on Customer Header
+2019-03-21 15:45:02,388 - Fieldez -INFO - Click Add Customer Button
+2019-03-21 15:45:02,759 - Fieldez -INFO - Entered the customer first name
+2019-03-21 15:45:02,850 - Fieldez -INFO - Entered the customer last name
+2019-03-21 15:45:17,930 - Fieldez -INFO - Saved the customer successfully
+2019-03-21 15:45:23,143 - Fieldez -INFO - Clicked on Customer Header
+2019-03-21 15:45:28,307 - Fieldez -INFO - Click Add Customer Button
+2019-03-21 15:45:28,683 - Fieldez -INFO - Entered the customer first name
+2019-03-21 15:45:28,776 - Fieldez -INFO - Entered the customer last name
+2019-03-21 15:45:43,853 - Fieldez -INFO - Saved the customer successfully
+2019-03-21 16:58:58,228 - Fieldez -INFO - Clicked on Customer Header
+2019-03-21 16:58:59,823 - Fieldez -INFO - Click Add Customer Button
+2019-03-21 16:59:01,091 - Fieldez -INFO - Entered the customer first name
+2019-03-21 16:59:01,225 - Fieldez -INFO - Entered the customer last name
+2019-03-21 16:59:11,336 - Fieldez -INFO - Saved the customer successfully
+2019-03-21 16:59:11,591 - Fieldez -INFO - Clicked on Customer Header
+2019-03-21 16:59:11,854 - Fieldez -INFO - Click Add Customer Button
+2019-03-21 16:59:12,388 - Fieldez -INFO - Entered the customer first name
+2019-03-21 16:59:12,608 - Fieldez -INFO - Entered the customer last name
+2019-03-21 16:59:22,725 - Fieldez -INFO - Saved the customer successfully
+2019-03-21 16:59:23,142 - Fieldez -INFO - Clicked on Customer Header
+2019-03-21 16:59:23,457 - Fieldez -INFO - Click Add Customer Button
+2019-03-21 16:59:23,964 - Fieldez -INFO - Entered the customer first name
+2019-03-21 16:59:24,071 - Fieldez -INFO - Entered the customer last name
+2019-03-21 16:59:34,192 - Fieldez -INFO - Saved the customer successfully
+2019-03-21 16:59:34,480 - Fieldez -INFO - Clicked on Customer Header
+2019-03-21 16:59:34,671 - Fieldez -INFO - Click Add Customer Button
+2019-03-21 16:59:35,200 - Fieldez -INFO - Entered the customer first name
+2019-03-21 16:59:35,332 - Fieldez -INFO - Entered the customer last name
+2019-03-21 16:59:45,456 - Fieldez -INFO - Saved the customer successfully
+2019-03-21 18:37:24,369 - Fieldez -INFO - Clicked on Customer Header
+2019-03-21 18:37:25,972 - Fieldez -INFO - Click Add Customer Button
+2019-03-21 18:37:27,152 - Fieldez -INFO - Entered the customer first name
+2019-03-21 18:37:27,293 - Fieldez -INFO - Entered the customer last name
+2019-03-21 18:37:37,413 - Fieldez -INFO - Saved the customer successfully
+2019-03-21 18:37:37,772 - Fieldez -INFO - Clicked on Customer Header
+2019-03-21 18:37:38,027 - Fieldez -INFO - Click Add Customer Button
+2019-03-21 18:37:38,889 - Fieldez -INFO - Entered the customer first name
+2019-03-21 18:37:39,020 - Fieldez -INFO - Entered the customer last name
+2019-03-21 18:37:49,141 - Fieldez -INFO - Saved the customer successfully
+2019-03-21 18:37:49,372 - Fieldez -INFO - Clicked on Customer Header
+2019-03-21 18:37:49,557 - Fieldez -INFO - Click Add Customer Button
+2019-03-21 18:37:50,005 - Fieldez -INFO - Entered the customer first name
+2019-03-21 18:37:50,127 - Fieldez -INFO - Entered the customer last name
+2019-03-21 18:38:00,253 - Fieldez -INFO - Saved the customer successfully
+2019-03-21 18:38:00,485 - Fieldez -INFO - Clicked on Customer Header
+2019-03-21 18:38:00,685 - Fieldez -INFO - Click Add Customer Button
+2019-03-21 18:38:01,096 - Fieldez -INFO - Entered the customer first name
+2019-03-21 18:38:01,208 - Fieldez -INFO - Entered the customer last name
+2019-03-21 18:38:11,333 - Fieldez -INFO - Saved the customer successfully
+2019-03-21 22:54:29,096 - Fieldez -INFO - Entered the call number
+2019-03-21 22:54:41,432 - Fieldez -INFO - Saved the call successfully
+2019-03-26 12:27:37,456 - Fieldez -INFO - Entered the call number
+2019-03-26 12:27:49,506 - Fieldez -INFO - Saved the call successfully
+2019-03-26 12:37:04,368 - Fieldez -INFO - Entered the call number
+2019-03-26 12:37:16,357 - Fieldez -INFO - Saved the call successfully
+2019-03-26 12:40:48,363 - Fieldez -INFO - Entered the call number
+2019-03-26 12:41:00,328 - Fieldez -INFO - Saved the call successfully
+2019-03-26 12:44:52,416 - Fieldez -INFO - Entered the call number
+2019-03-26 12:45:04,288 - Fieldez -INFO - Saved the call successfully
+2019-03-26 12:45:21,399 - Fieldez -INFO - Entered the call number
+2019-03-26 12:45:33,153 - Fieldez -INFO - Saved the call successfully
+2019-03-26 12:45:50,264 - Fieldez -INFO - Entered the call number
+2019-03-26 12:46:02,043 - Fieldez -INFO - Saved the call successfully
+2019-03-26 12:46:19,196 - Fieldez -INFO - Entered the call number
+2019-03-26 12:46:31,005 - Fieldez -INFO - Saved the call successfully
+2019-03-26 12:46:48,144 - Fieldez -INFO - Entered the call number
+2019-03-26 12:46:59,980 - Fieldez -INFO - Saved the call successfully
+2019-03-26 12:47:17,104 - Fieldez -INFO - Entered the call number
+2019-03-26 12:47:28,863 - Fieldez -INFO - Saved the call successfully
+2019-03-26 12:47:46,048 - Fieldez -INFO - Entered the call number
+2019-03-26 12:47:57,873 - Fieldez -INFO - Saved the call successfully
+2019-03-26 12:48:14,982 - Fieldez -INFO - Entered the call number
+2019-03-26 12:48:26,609 - Fieldez -INFO - Saved the call successfully
+2019-03-26 12:48:43,707 - Fieldez -INFO - Entered the call number
+2019-03-26 12:48:55,369 - Fieldez -INFO - Saved the call successfully
+2019-04-17 11:02:30,516 - Fieldez -INFO - Entered the call number
+2019-04-17 11:02:42,520 - Fieldez -INFO - Saved the call successfully
+2019-04-19 15:08:51,837 - Fieldez -INFO - Entered the call number
+2019-04-19 15:09:04,115 - Fieldez -INFO - Saved the call successfully
+2019-05-13 13:01:45,735 - Fieldez -INFO - Entered the call number
+2019-05-13 13:01:57,783 - Fieldez -INFO - Saved the call successfully
+2019-05-13 13:21:57,302 - Fieldez -INFO - Entered the call number
+2019-05-13 13:22:09,250 - Fieldez -INFO - Saved the call successfully
+2019-05-13 16:43:42,824 - Fieldez -INFO - Entered the call number
+2019-05-13 16:43:54,828 - Fieldez -INFO - Saved the call successfully
+2019-05-14 14:15:47,975 - Fieldez -INFO - Advanced Link is Clicked
+2019-05-14 14:15:50,006 - Fieldez -INFO - Expense Link is clicked
+2019-05-14 14:29:29,978 - Fieldez -INFO - Advanced Link is Clicked
+2019-05-14 14:29:34,040 - Fieldez -INFO - Expense Link is clicked
+2019-05-14 14:31:10,438 - Fieldez -INFO - Advanced Link is Clicked
+2019-05-14 14:31:12,412 - Fieldez -INFO - Expense Link is clicked
+2019-05-14 14:32:29,294 - Fieldez -INFO - Advanced Link is Clicked
+2019-05-14 14:32:31,240 - Fieldez -INFO - Expense Link is clicked
+2019-05-14 14:32:41,373 - Fieldez -INFO - Create Expense is Clicked
+2019-05-14 14:33:37,974 - Fieldez -INFO - Advanced Link is Clicked
+2019-05-14 14:33:39,845 - Fieldez -INFO - Expense Link is clicked
+2019-05-14 14:33:59,971 - Fieldez -INFO - Create Expense is Clicked
+2019-05-14 15:24:07,342 - Fieldez -INFO - Advanced Link is Clicked
+2019-05-14 15:24:09,303 - Fieldez -INFO - Expense Link is clicked
+2019-05-14 15:24:29,611 - Fieldez -INFO - Create Expense is Clicked
+2019-05-14 15:33:49,377 - Fieldez -INFO - Advanced Link is Clicked
+2019-05-14 15:33:51,670 - Fieldez -INFO - Expense Link is clicked
+2019-05-14 15:34:11,870 - Fieldez -INFO - Create Expense is Clicked
+2019-05-14 15:35:38,266 - Fieldez -INFO - Advanced Link is Clicked
+2019-05-14 15:35:40,616 - Fieldez -INFO - Expense Link is clicked
+2019-05-14 15:36:00,873 - Fieldez -INFO - Create Expense is Clicked
+2019-05-15 18:11:21,513 - Fieldez -INFO - Advanced Link is Clicked
+2019-05-15 18:11:26,013 - Fieldez -INFO - Expense Link is clicked
+2019-05-15 18:11:46,151 - Fieldez -INFO - Create Expense is Clicked
+2019-05-15 18:11:46,196 - Fieldez -INFO - T001-Pass
+2019-05-15 18:14:17,325 - Fieldez -INFO - Advanced Link is Clicked
+2019-05-15 18:14:23,591 - Fieldez -INFO - Expense Link is clicked
+2019-05-15 18:14:43,717 - Fieldez -INFO - Create Expense is Clicked
+2019-05-15 18:14:43,757 - Fieldez -INFO - T001-Pass
+2019-05-15 18:14:43,866 - Fieldez -INFO - T001-Pass
+2019-05-15 18:32:13,918 - Fieldez -INFO - Advanced Link is Clicked
+2019-05-15 18:32:18,508 - Fieldez -INFO - Expense Link is clicked
+2019-05-15 18:32:38,820 - Fieldez -INFO - Create Expense is Clicked
+2019-05-15 18:32:38,951 - Fieldez -INFO - T001-Pass
+2019-05-15 18:32:39,080 - Fieldez -INFO - T002-Pass
+2019-05-15 18:34:08,811 - Fieldez -INFO - Advanced Link is Clicked
+2019-05-15 18:34:12,636 - Fieldez -INFO - Expense Link is clicked
+2019-05-15 18:34:32,900 - Fieldez -INFO - Create Expense is Clicked
+2019-05-15 18:34:32,982 - Fieldez -INFO - T001-Pass
+2019-05-15 18:34:33,186 - Fieldez -INFO - T002-Pass
+2019-05-15 18:36:00,168 - Fieldez -INFO - Advanced Link is Clicked
+2019-05-15 18:36:02,080 - Fieldez -INFO - Expense Link is clicked
+2019-05-15 18:36:22,275 - Fieldez -INFO - Create Expense is Clicked
+2019-05-15 18:36:22,345 - Fieldez -INFO - T001-Pass
+2019-05-15 18:36:22,450 - Fieldez -INFO - T002-Pass
+2019-05-15 18:36:27,709 - Fieldez -INFO - T003-Pass
+2019-05-15 19:30:03,999 - Fieldez -INFO - Advanced Link is Clicked
+2019-05-15 19:30:06,940 - Fieldez -INFO - Expense Link is clicked
+2019-05-15 19:30:27,169 - Fieldez -INFO - Create Expense is Clicked
+2019-05-15 19:30:27,278 - Fieldez -INFO - T001-Pass
+2019-05-15 19:30:32,483 - Fieldez -INFO - T002-Pass
+2019-05-15 19:32:55,525 - Fieldez -INFO - Advanced Link is Clicked
+2019-05-15 19:32:57,729 - Fieldez -INFO - Expense Link is clicked
+2019-05-15 19:33:04,001 - Fieldez -INFO - Create Expense is Clicked
+2019-05-15 19:33:04,109 - Fieldez -INFO - T001-Pass
+2019-05-15 19:33:09,442 - Fieldez -INFO - T002-Pass
+2019-05-15 19:33:14,749 - Fieldez -INFO - T003-Pass
+2019-05-16 11:50:48,225 - Fieldez -INFO - Advanced Link is Clicked
+2019-05-16 11:50:50,048 - Fieldez -INFO - Expense Link is clicked
+2019-05-16 11:50:56,202 - Fieldez -INFO - Create Expense is Clicked
+2019-05-16 11:50:56,247 - Fieldez -INFO - T001-Pass
+2019-05-16 11:51:01,425 - Fieldez -INFO - T002-Pass
+2019-05-16 11:51:06,683 - Fieldez -INFO - T003-Pass
+2019-05-16 11:53:03,657 - Fieldez -INFO - Advanced Link is Clicked
+2019-05-16 11:53:05,331 - Fieldez -INFO - Expense Link is clicked
+2019-05-16 11:53:11,504 - Fieldez -INFO - Create Expense is Clicked
+2019-05-16 11:53:11,548 - Fieldez -INFO - T001-Pass
+2019-05-16 11:53:16,732 - Fieldez -INFO - T002-Pass
+2019-05-16 11:53:21,926 - Fieldez -INFO - T003-Pass
+2019-05-16 13:04:15,395 - Fieldez -INFO - Advanced Link is Clicked
+2019-05-16 13:04:17,011 - Fieldez -INFO - Expense Link is clicked
+2019-05-16 13:04:23,135 - Fieldez -INFO - Create Expense is Clicked
+2019-05-16 13:04:23,181 - Fieldez -INFO - T001-Pass
+2019-05-16 13:04:28,345 - Fieldez -INFO - T002-Pass
+2019-05-16 13:04:33,526 - Fieldez -INFO - T003-Pass
+2019-05-16 14:28:00,306 - Fieldez -INFO - Advanced Link is Clicked
+2019-05-16 14:28:02,017 - Fieldez -INFO - Expense Link is clicked
+2019-05-16 14:28:08,132 - Fieldez -INFO - Create Expense is Clicked
+2019-05-16 14:28:08,177 - Fieldez -INFO - T001-Pass
+2019-05-16 14:28:13,339 - Fieldez -INFO - T002-Pass
+2019-05-16 14:28:18,579 - Fieldez -INFO - T003-Pass
+2019-05-16 14:32:21,494 - Fieldez -INFO - Advanced Link is Clicked
+2019-05-16 14:32:23,474 - Fieldez -INFO - Expense Link is clicked
+2019-05-16 14:32:29,618 - Fieldez -INFO - Create Expense is Clicked
+2019-05-16 14:32:29,666 - Fieldez -INFO - T001-Pass
+2019-05-16 14:32:34,833 - Fieldez -INFO - T002-Pass
+2019-05-16 14:32:40,019 - Fieldez -INFO - T003-Pass
+2019-05-16 14:32:40,607 - Fieldez -INFO - Line item saved
+2019-05-16 15:06:53,234 - Fieldez -INFO - Advanced Link is Clicked
+2019-05-16 15:06:55,094 - Fieldez -INFO - Expense Link is clicked
+2019-05-16 15:07:01,218 - Fieldez -INFO - Create Expense is Clicked
+2019-05-16 15:07:01,270 - Fieldez -INFO - T001-Pass
+2019-05-16 15:07:06,446 - Fieldez -INFO - T002-Pass
+2019-05-16 15:07:11,622 - Fieldez -INFO - T003-Pass
+2019-05-16 15:07:12,159 - Fieldez -INFO - Line item saved
+2019-05-16 15:23:03,777 - Fieldez -INFO - Advanced Link is Clicked
+2019-05-16 15:23:05,545 - Fieldez -INFO - Expense Link is clicked
+2019-05-16 15:23:11,680 - Fieldez -INFO - Create Expense is Clicked
+2019-05-16 15:23:11,729 - Fieldez -INFO - T001-Pass
+2019-05-16 15:23:16,922 - Fieldez -INFO - T002-Pass
+2019-05-16 15:23:22,105 - Fieldez -INFO - T003-Pass
+2019-05-16 15:23:22,625 - Fieldez -INFO - Line item saved
+2019-05-16 15:26:57,010 - Fieldez -INFO - Advanced Link is Clicked
+2019-05-16 15:26:58,662 - Fieldez -INFO - Expense Link is clicked
+2019-05-16 15:27:04,764 - Fieldez -INFO - Create Expense is Clicked
+2019-05-16 15:27:04,809 - Fieldez -INFO - T001-Pass
+2019-05-16 15:27:09,962 - Fieldez -INFO - T002-Pass
+2019-05-16 15:27:15,114 - Fieldez -INFO - T003-Pass
+2019-05-16 15:27:15,551 - Fieldez -INFO - Line item saved
+2019-05-16 15:32:39,573 - Fieldez -INFO - Advanced Link is Clicked
+2019-05-16 15:32:41,428 - Fieldez -INFO - Expense Link is clicked
+2019-05-16 15:32:47,555 - Fieldez -INFO - Create Expense is Clicked
+2019-05-16 15:32:47,601 - Fieldez -INFO - T001-Pass
+2019-05-16 15:32:52,778 - Fieldez -INFO - T002-Pass
+2019-05-16 15:32:57,953 - Fieldez -INFO - T003-Pass
+2019-05-16 15:32:58,471 - Fieldez -INFO - Line item saved
+2019-05-16 15:39:03,295 - Fieldez -INFO - Advanced Link is Clicked
+2019-05-16 15:39:05,126 - Fieldez -INFO - Expense Link is clicked
+2019-05-16 15:39:11,249 - Fieldez -INFO - Create Expense is Clicked
+2019-05-16 15:39:11,302 - Fieldez -INFO - T001-Pass
+2019-05-16 15:39:16,471 - Fieldez -INFO - T002-Pass
+2019-05-16 15:39:21,680 - Fieldez -INFO - T003-Pass
+2019-05-16 15:39:22,254 - Fieldez -INFO - Line item saved
+2019-05-16 16:13:51,597 - Fieldez -INFO - Advanced Link is Clicked
+2019-05-16 16:13:53,253 - Fieldez -INFO - Expense Link is clicked
+2019-05-16 16:13:59,377 - Fieldez -INFO - Create Expense is Clicked
+2019-05-16 16:13:59,428 - Fieldez -INFO - T001-Pass
+2019-05-16 16:14:04,597 - Fieldez -INFO - T002-Pass
+2019-05-16 16:14:09,779 - Fieldez -INFO - T003-Pass
+2019-05-16 16:14:10,302 - Fieldez -INFO - Line item saved
+2019-05-16 16:14:14,408 - Fieldez -INFO - Clicked on Calendar
+2019-05-16 16:14:17,549 - Fieldez -INFO - Selected Date
+2019-05-16 16:24:37,540 - Fieldez -INFO - Advanced Link is Clicked
+2019-05-16 16:24:39,743 - Fieldez -INFO - Expense Link is clicked
+2019-05-16 16:24:45,878 - Fieldez -INFO - Create Expense is Clicked
+2019-05-16 16:24:45,926 - Fieldez -INFO - T001-Pass
+2019-05-16 16:24:51,069 - Fieldez -INFO - T002-Pass
+2019-05-16 16:24:56,220 - Fieldez -INFO - T003-Pass
+2019-05-16 16:24:56,639 - Fieldez -INFO - Line item saved
+2019-05-16 16:25:00,714 - Fieldez -INFO - Clicked on Calendar
+2019-05-16 16:25:03,829 - Fieldez -INFO - Selected Date
+2019-05-16 17:29:03,046 - Fieldez -INFO - Advanced Link is Clicked
+2019-05-16 17:29:04,680 - Fieldez -INFO - Expense Link is clicked
+2019-05-16 17:29:08,812 - Fieldez -INFO - Create Expense is Clicked
+2019-05-16 17:29:08,874 - Fieldez -INFO - T001-Pass
+2019-05-16 17:29:14,134 - Fieldez -INFO - T002-Pass
+2019-05-16 17:29:19,326 - Fieldez -INFO - T003-Pass
+2019-05-16 17:29:19,887 - Fieldez -INFO - Line item saved
+2019-05-16 17:29:23,987 - Fieldez -INFO - Clicked on Calendar
+2019-05-16 17:29:27,145 - Fieldez -INFO - Selected Date
+2019-05-16 17:32:55,916 - Fieldez -INFO - Advanced Link is Clicked
+2019-05-16 17:32:57,563 - Fieldez -INFO - Expense Link is clicked
+2019-05-16 17:33:01,701 - Fieldez -INFO - Create Expense is Clicked
+2019-05-16 17:33:01,792 - Fieldez -INFO - T001-Pass
+2019-05-16 17:33:06,993 - Fieldez -INFO - T002-Pass
+2019-05-16 17:33:12,189 - Fieldez -INFO - T003-Pass
+2019-05-16 17:33:12,742 - Fieldez -INFO - Line item saved
+2019-05-16 17:33:16,848 - Fieldez -INFO - Clicked on Calendar
+2019-05-16 17:33:20,048 - Fieldez -INFO - Selected Date
+2019-05-16 17:36:19,900 - Fieldez -INFO - Advanced Link is Clicked
+2019-05-16 17:36:22,128 - Fieldez -INFO - Expense Link is clicked
+2019-05-16 17:36:26,280 - Fieldez -INFO - Create Expense is Clicked
+2019-05-16 17:36:26,347 - Fieldez -INFO - T001-Pass
+2019-05-16 17:36:28,551 - Fieldez -INFO - T002-Pass
+2019-05-16 17:36:30,748 - Fieldez -INFO - T003-Pass
+2019-05-16 17:36:31,481 - Fieldez -INFO - Line item saved
+2019-05-16 17:36:34,601 - Fieldez -INFO - Clicked on Calendar
+2019-05-16 17:36:37,754 - Fieldez -INFO - Selected Date
+2019-05-16 17:38:32,068 - Fieldez -INFO - Advanced Link is Clicked
+2019-05-16 17:38:33,668 - Fieldez -INFO - Expense Link is clicked
+2019-05-16 17:38:37,795 - Fieldez -INFO - Create Expense is Clicked
+2019-05-16 17:38:37,863 - Fieldez -INFO - T001-Pass
+2019-05-16 17:38:40,084 - Fieldez -INFO - T002-Pass
+2019-05-16 17:38:42,285 - Fieldez -INFO - T003-Pass
+2019-05-16 17:38:42,811 - Fieldez -INFO - Line item saved
+2019-05-16 17:38:43,914 - Fieldez -INFO - Clicked on Calendar
+2019-05-16 17:38:47,061 - Fieldez -INFO - Selected Date
+2019-05-16 18:15:10,079 - Fieldez -INFO - Advanced Link is Clicked
+2019-05-16 18:15:12,899 - Fieldez -INFO - Expense Link is clicked
+2019-05-16 18:15:17,071 - Fieldez -INFO - Create Expense is Clicked
+2019-05-16 18:15:17,125 - Fieldez -INFO - T001-Pass
+2019-05-16 18:15:19,459 - Fieldez -INFO - T002-Pass
+2019-05-16 18:15:22,113 - Fieldez -INFO - T003-Pass
+2019-05-16 18:15:22,727 - Fieldez -INFO - Line item saved
+2019-05-16 18:15:23,873 - Fieldez -INFO - Clicked on Calendar
+2019-05-16 18:15:27,063 - Fieldez -INFO - Selected Date
+2019-05-16 19:34:42,368 - Fieldez -INFO - Advanced Link is Clicked
+2019-05-16 19:34:44,121 - Fieldez -INFO - Expense Link is clicked
+2019-05-16 19:34:48,248 - Fieldez -INFO - Create Expense is Clicked
+2019-05-16 19:34:48,302 - Fieldez -INFO - T001-Pass
+2019-05-16 19:34:50,470 - Fieldez -INFO - T002-Pass
+2019-05-16 19:34:52,704 - Fieldez -INFO - T003-Pass
+2019-05-16 19:34:52,747 - Fieldez -INFO - Save Line Item Button is disabled
+2019-05-16 19:34:52,747 - Fieldez -INFO - TC004-----> Pass
+2019-05-16 19:34:53,131 - Fieldez -INFO - Save Line Item Button is enabled
+2019-05-16 19:34:53,327 - Fieldez -INFO - Line item saved
+2019-05-16 19:34:54,456 - Fieldez -INFO - Clicked on Calendar
+2019-05-16 19:34:57,600 - Fieldez -INFO - Selected Date
+2019-05-16 19:36:46,238 - Fieldez -INFO - Advanced Link is Clicked
+2019-05-16 19:36:47,982 - Fieldez -INFO - Expense Link is clicked
+2019-05-16 19:36:52,087 - Fieldez -INFO - Create Expense is Clicked
+2019-05-16 19:36:52,135 - Fieldez -INFO - T001-Pass
+2019-05-16 19:36:54,286 - Fieldez -INFO - T002-Pass
+2019-05-16 19:36:56,432 - Fieldez -INFO - T003-Pass
+2019-05-16 19:36:56,465 - Fieldez -INFO - Save Line Item Button is disabled
+2019-05-16 19:36:56,465 - Fieldez -INFO - TC004-----> Pass
+2019-05-16 19:36:56,721 - Fieldez -INFO - Save Line Item Button is enabled
+2019-05-16 19:36:56,863 - Fieldez -INFO - Line item saved
+2019-05-16 19:36:57,946 - Fieldez -INFO - Clicked on Calendar
+2019-05-16 19:37:01,059 - Fieldez -INFO - Selected Date
+2019-05-17 12:23:08,586 - Fieldez -INFO - Entered the call number
+2019-05-17 12:23:20,859 - Fieldez -INFO - Saved the call successfully
+2019-05-17 12:49:41,369 - Fieldez -INFO - Entered the call number
+2019-05-17 12:49:53,641 - Fieldez -INFO - Saved the call successfully
+2019-05-17 15:04:56,740 - Fieldez -INFO - Entered the call number
+2019-05-17 15:05:08,925 - Fieldez -INFO - Saved the call successfully
+2019-05-17 16:11:43,900 - Fieldez -INFO - Entered the call number
+2019-05-17 16:11:56,319 - Fieldez -INFO - Saved the call successfully
+2019-05-17 16:23:06,758 - Fieldez -INFO - Entered the call number
+2019-05-17 16:23:18,837 - Fieldez -INFO - Saved the call successfully
+2019-05-17 16:23:55,348 - Fieldez -INFO - Call Details Page Loaded successfully
+2019-05-17 19:14:54,453 - Fieldez -INFO - Entered the call number
+2019-05-17 19:15:06,539 - Fieldez -INFO - Saved the call successfully
+2019-05-17 19:15:06,583 - Fieldez -INFO - T001-Pass- Call Create Successfully
+2019-05-17 19:24:59,291 - Fieldez -INFO - Entered the call number
+2019-05-17 19:25:11,407 - Fieldez -INFO - Saved the call successfully
+2019-05-17 19:25:11,476 - Fieldez -INFO - T001-Pass- Call Create Successfully
+2019-05-17 19:33:56,658 - Fieldez -INFO - Entered the call number
+2019-05-17 19:34:09,588 - Fieldez -INFO - Saved the call successfully
+2019-05-17 19:34:09,638 - Fieldez -INFO - T001-Pass- Call Create Successfully
+2019-05-17 20:00:25,861 - Fieldez -INFO - Entered the call number
+2019-05-17 20:00:38,174 - Fieldez -INFO - Saved the call successfully
+2019-05-17 20:00:38,234 - Fieldez -INFO - T001-Pass- Call Create Successfully
+2019-05-17 20:01:15,489 - Fieldez -INFO - Call Details Page Loaded successfully
+2019-05-17 20:01:15,533 - Fieldez -INFO - T002-Pass
