@@ -2,6 +2,8 @@ package com.fieldez.testcases;
 
 import java.io.File;
 import java.io.IOException;
+import java.text.SimpleDateFormat;
+import java.util.Date;
 
 import org.apache.commons.io.FileUtils;
 import org.apache.log4j.Logger;
@@ -72,17 +74,20 @@ public class BaseClass1 {
 	
 	
 	
-/*	public void captureScreen(WebDriver driver, String tname) throws IOException {
+	/*public static String getScreenshot(WebDriver driver, String screenshotName) throws IOException{
+		String dateName = new SimpleDateFormat("yyyyMMddhhmmss").format(new Date());
 		TakesScreenshot ts = (TakesScreenshot) driver;
 		File source = ts.getScreenshotAs(OutputType.FILE);
-		File target = new File(System.getProperty("user.dir") + "/Screenshots/" + tname + ".png");
-		FileUtils.copyFile(source, target);
-		System.out.println("Screenshot taken");
-	}	*/
-	
+		// after execution, you could see a folder "FailedTestsScreenshots"
+		// under src folder
+		String destination = System.getProperty("user.dir") + "/FailedTestsScreenshots/" + screenshotName + dateName
+				+ ".png";
+		File finalDestination = new File(destination);
+		FileUtils.copyFile(source, finalDestination);
+		return destination;}*/
 	
 	@AfterClass
-	public void OpenTestResults() throws IOException, InterruptedException {
+	public void OpenTestResults(WebDriver driver, String tname) throws IOException, InterruptedException {
 		
 		//System.setProperty("webdriver.chrome.driver",readconfig.getChromePath());
 		//Instantatation the Driver
@@ -91,6 +96,12 @@ public class BaseClass1 {
 		//driver.get("E:\\SVN\\FZ_Web_Automation_1.0\\com.fieldez.webautomation\\test-output\\index.html");
 		//driver.manage().window().maximize();
 		//Thread.sleep(5000);
+		/*
+		TakesScreenshot ts = (TakesScreenshot) driver;
+		File source = ts.getScreenshotAs(OutputType.FILE);
+		File target = new File(System.getProperty("user.dir") +"/Screenshots/"+ tname + ".png");
+		FileUtils.copyFile(source, target);
+		System.out.println("Screenshot taken");*/
 		driver.quit();
 	}	
 	

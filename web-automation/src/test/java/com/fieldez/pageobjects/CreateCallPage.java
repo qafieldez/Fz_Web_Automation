@@ -10,7 +10,8 @@ import org.openqa.selenium.WebDriver;
 	import org.openqa.selenium.support.FindBy;
 	import org.openqa.selenium.support.PageFactory;
 	import org.openqa.selenium.support.ui.ExpectedConditions;
-	import org.openqa.selenium.support.ui.WebDriverWait;
+import org.openqa.selenium.support.ui.Select;
+import org.openqa.selenium.support.ui.WebDriverWait;
 
 import com.fieldez.utilities.Generate_Radom_Data;
 	public class CreateCallPage {
@@ -63,83 +64,83 @@ import com.fieldez.utilities.Generate_Radom_Data;
 			WebElement CustomerFirstName;
 			
 			//Pass Customer Middle Name
-			@FindBy(xpath="//div[3]//div[1]//div[1]//div[1]//input[1]")
+			@FindBy(xpath="//input[@id='customerMiddleName']")
 			@CacheLookup
 			WebElement CustomerMiddleName;
 			
 
 			//Pass Customer Last Name
-			@FindBy(xpath="//div[3]//div[1]//div[1]//div[1]//input[1]")
+			@FindBy(xpath="//input[@id='customerLastName']")
 			@CacheLookup
 			WebElement CustomerLastName;
 			
 			
 			//Pass Customer Address 1
-			@FindBy(xpath="//div[3]//div[1]//div[1]//div[1]//input[1]")
+			@FindBy(xpath="//input[@id='customerAddress1']")
 			@CacheLookup
 			WebElement CustomerAddress1;
 			
 			//Pass Customer Address 2
-			@FindBy(xpath="//div[3]//div[1]//div[1]//div[1]//input[1]")
+			@FindBy(xpath="//input[@id='customerAddress2']")
 			@CacheLookup
 			WebElement CustomerAddress2;
 			
 			
 			
 			//Pass Customer City
-			@FindBy(xpath="//div[3]//div[1]//div[1]//div[1]//input[1]")
+			@FindBy(xpath="//input[@id='customercity']")
 			@CacheLookup
 			WebElement City;
 			
 			
 			
 			//Pass Customer Country
-			@FindBy(xpath="//div[3]//div[1]//div[1]//div[1]//input[1]")
+			@FindBy(xpath="//select[@id='customercountry']")
 			@CacheLookup
-			WebElement Country;
+			WebElement Country1;
 			
 			
 			
 			//Pass Customer State
-			@FindBy(xpath="//div[3]//div[1]//div[1]//div[1]//input[1]")
+			@FindBy(xpath="//input[@id='customerstate']")
 			@CacheLookup
 			WebElement State;
 			
 			//Pass Customer CustomerId
-			@FindBy(xpath="//div[3]//div[1]//div[1]//div[1]//input[1]")
+			@FindBy(xpath="//input[@id='customercustomerExternalId']")
 			@CacheLookup
 			WebElement CustomerId;
 			
 			
 			
 			//Pass Customer PrimaryNo
-			@FindBy(xpath="//div[3]//div[1]//div[1]//div[1]//input[1]")
+			@FindBy(xpath="//input[@id='customercontactNo']")
 			@CacheLookup
 			WebElement PrimaryNo;
 			
 			
 			//Pass Customer EmailID
-			@FindBy(xpath="//div[3]//div[1]//div[1]//div[1]//input[1]")
+			@FindBy(xpath="//input[@id='customeremailId']")
 			@CacheLookup
 			WebElement EmailID;
 			
 			
 
 			//Pass Customer OrgName
-			@FindBy(xpath="//div[3]//div[1]//div[1]//div[1]//input[1]")
+			@FindBy(xpath="//input[@id='customerorganizationName']")
 			@CacheLookup
 			WebElement OrgName;
 			
 			
 			
 			//Pass Customer SubOrg
-			@FindBy(xpath="//div[3]//div[1]//div[1]//div[1]//input[1]")
+			@FindBy(xpath="//input[@id='customersubOrg']")
 			@CacheLookup
 			WebElement SubOrg;
 			
 			
 			//Pass Customer CustomerType
-			@FindBy(xpath="//div[3]//div[1]//div[1]//div[1]//input[1]")
+			@FindBy(xpath="//input[@id='customertype']")
 			@CacheLookup
 			WebElement CustomerType;
 			
@@ -152,35 +153,35 @@ import com.fieldez.utilities.Generate_Radom_Data;
 			WebElement ProblemDesc;
 			
 			//Pass  ProductName
-			@FindBy(xpath="//div[3]//div[1]//div[1]//div[1]//input[1]")
+			@FindBy(xpath="//input[@id='productName']")
 			@CacheLookup
 			WebElement ProductName;
 			
 			
 			//Pass  ModelName
-			@FindBy(xpath="//div[3]//div[1]//div[1]//div[1]//input[1]")
+			@FindBy(xpath="//input[@id='modelName']")
 			@CacheLookup
 			WebElement ModelName;
 			
 			
 			//Pass  ProductSerialNO
-			@FindBy(xpath="//div[3]//div[1]//div[1]//div[1]//input[1]")
+			@FindBy(xpath="//input[@id='productSerialNo']")
 			@CacheLookup
 			WebElement ProductSerialNO;
 			
 			
 			//Pass  WarrantyType
-			@FindBy(xpath="//div[3]//div[1]//div[1]//div[1]//input[1]")
+			@FindBy(xpath="//input[@id='productWarrantyType']")
 			@CacheLookup 
 			WebElement WarrrantyType;
 			
 			//Pass  SpecialInstructions
-			@FindBy(xpath="//div[3]//div[1]//div[1]//div[1]//input[1]")
+			@FindBy(xpath="//input[@id='specialInstructions']")
 			@CacheLookup
 			WebElement SpecialInstructions;
 			
 			//Pass  Remarks
-			@FindBy(xpath="//div[3]//div[1]//div[1]//div[1]//input[1]")
+			@FindBy(xpath="//input[@id='remarks']")
 			@CacheLookup
 			WebElement Remarks;
 			
@@ -301,9 +302,12 @@ import com.fieldez.utilities.Generate_Radom_Data;
 				City.sendKeys(city);
 			}
 					
-			public void EnterCountry(String country)
+			public void EnterCountry()
 			{
-				Country.sendKeys(country);
+				
+				Select country = new Select(Country1);
+				country.selectByVisibleText("India");
+				
 			}		
 			public void EnterState(String state)
 			{
@@ -411,6 +415,7 @@ import com.fieldez.utilities.Generate_Radom_Data;
 				Go.click();
             	Thread.sleep(3000);
             	AddAttachmentsLink.click();
+            	Thread.sleep(3000);
             	ChooseFile.sendKeys("C:\\Users\\fieldez\\Desktop\\new\\desktop\\product images\\darjeeling.jpg");
             	SaveAttachments.click();
             	Thread.sleep(10000);

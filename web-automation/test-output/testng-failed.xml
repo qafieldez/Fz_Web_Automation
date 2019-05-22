@@ -9,7 +9,7 @@
     <classes>
       <class name="com.fieldez.testcases.TC_CreateCallTest_003">
         <methods>
-          <include name="UploadCallLevelAttachments"/>
+          <include name="CreateCallTest" invocation-numbers="0"/>
           <include name="OpenTestResults"/>
           <include name="setup"/>
         </methods>
